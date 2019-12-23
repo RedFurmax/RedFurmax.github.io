@@ -1,2 +1,2 @@
 # redfurmax.github.io
-Red's Workshop Local 01
+Red's Workshop - For learning Web Developement
